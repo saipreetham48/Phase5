@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.906">
+  <properties />
+  
+  
+            <testcase name="launchChrome" time="5.542" classname="com.simplilearn.testng.GroupTest" />
+                <testcase name="loginWithChrome" time="0.364" classname="com.simplilearn.testng.GroupTest" />
+      
+</testsuite>

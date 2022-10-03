@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T15:01:54 IST" name="Suite" finished-at="2022-10-01T15:02:08 IST" duration-ms="14333">
+    <groups>
+      <group name="Chrome">
+        <method signature="GroupTest.launchChrome()[pri:0, instance:com.simplilearn.testng.GroupTest@7eecb5b8]" name="launchChrome" class="com.simplilearn.testng.GroupTest"/>
+        <method signature="GroupTest.loginWithChrome()[pri:0, instance:com.simplilearn.testng.GroupTest@7eecb5b8]" name="loginWithChrome" class="com.simplilearn.testng.GroupTest"/>
+      </group> <!-- Chrome -->
+    </groups>
+    <test started-at="2022-10-01T15:01:54 IST" name="Test" finished-at="2022-10-01T15:02:08 IST" duration-ms="14333">
+      <class name="com.simplilearn.testng.AssertionExample">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.simplilearn.testng.AssertionExample@387a8303]" started-at="2022-10-01T15:01:54 IST" name="beforeMethod" finished-at="2022-10-01T15:01:56 IST" duration-ms="2276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TitleTest()[pri:0, instance:com.simplilearn.testng.AssertionExample@387a8303]" started-at="2022-10-01T15:01:56 IST" name="TitleTest" finished-at="2022-10-01T15:01:58 IST" duration-ms="1989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.simplilearn.testng.AssertionExample@387a8303]" started-at="2022-10-01T15:01:58 IST" name="afterMethod" finished-at="2022-10-01T15:01:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.testng.AssertionExample -->
+      <class name="com.simplilearn.testng.FirstDemo">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="beforesuite" finished-at="2022-10-01T15:01:54 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="beforetest" finished-at="2022-10-01T15:01:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="beforeclass" finished-at="2022-10-01T15:01:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="beforemethod" finished-at="2022-10-01T15:01:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Hello()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="Hello" finished-at="2022-10-01T15:01:54 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hello -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="aftermethod" finished-at="2022-10-01T15:01:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="beforemethod" finished-at="2022-10-01T15:01:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Hello1()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="Hello1" finished-at="2022-10-01T15:01:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hello1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="aftermethod" finished-at="2022-10-01T15:01:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:01:54 IST" name="afterclass" finished-at="2022-10-01T15:01:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:02:08 IST" name="aftertest" finished-at="2022-10-01T15:02:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:com.simplilearn.testng.FirstDemo@29d80d2b]" started-at="2022-10-01T15:02:08 IST" name="aftersuite" finished-at="2022-10-01T15:02:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.simplilearn.testng.FirstDemo -->
+      <class name="com.simplilearn.testng.GroupTest">
+        <test-method signature="launchChrome()[pri:0, instance:com.simplilearn.testng.GroupTest@7eecb5b8]" started-at="2022-10-01T15:01:58 IST" name="launchChrome" finished-at="2022-10-01T15:02:04 IST" duration-ms="5810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChrome -->
+        <test-method signature="loginWithChrome()[pri:0, instance:com.simplilearn.testng.GroupTest@7eecb5b8]" started-at="2022-10-01T15:02:04 IST" name="loginWithChrome" finished-at="2022-10-01T15:02:04 IST" depends-on-methods="com.simplilearn.testng.GroupTest.launchChrome" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithChrome -->
+      </class> <!-- com.simplilearn.testng.GroupTest -->
+      <class name="com.simplilearn.testng.FacebookLogin">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.simplilearn.testng.FacebookLogin@126253fd]" started-at="2022-10-01T15:02:04 IST" name="beforeMethod" finished-at="2022-10-01T15:02:06 IST" duration-ms="1666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="facebook()[pri:0, instance:com.simplilearn.testng.FacebookLogin@126253fd]" started-at="2022-10-01T15:02:06 IST" name="facebook" finished-at="2022-10-01T15:02:08 IST" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.simplilearn.testng.FacebookLogin@126253fd]" started-at="2022-10-01T15:02:08 IST" name="afterMethod" finished-at="2022-10-01T15:02:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.testng.FacebookLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
